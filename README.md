@@ -5,7 +5,8 @@ A simple external project for CSGO written in C++. This is my personal project a
 ## Features
 - External memory reading/writing
 - Skinchanger basics
-- Offset/struct database
+- **Offset/struct database**
+  - Auto Updating
 - Simple config system
 - No UI/Menu (removed for privacy)
 
