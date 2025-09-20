@@ -10,7 +10,7 @@ A simple external project for CSGO written in C++. This is my personal project a
 - No UI/Menu (removed for privacy)
 
 <details>
-<summary><strong>Show full feature list</strong></summary>
+<summary><img src="https://img.shields.io/badge/Show-FEATURES-purple?style=for-the-badge&logo=github" alt="Show Features" /> <strong>Show full feature list</strong></summary>
 
 ### Aimbot
 - Aimbot (psilent, mouse, angle)
@@ -78,6 +78,7 @@ A simple external project for CSGO written in C++. This is my personal project a
 ## Credits
 - Some code inspired by open-source CSGO projects on GitHub
 - Thanks to the C++ community for tutorials and help!
+- Auto Update System is used by a user from unknowncheats (really thanks for that, idk the name anymore sry), also the skinload system but haven't used it yet
 
 ---
 
