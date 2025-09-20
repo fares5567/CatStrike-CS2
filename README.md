@@ -10,7 +10,8 @@ A simple external project for CSGO written in C++. This is my personal project a
 - No UI/Menu (removed for privacy)
 
 <details>
-<summary><img src="https://img.shields.io/badge/Show-FEATURES-purple?style=for-the-badge&logo=github" alt="Show Features" /> <strong>Show full feature list</strong></summary>
+<summary><strong>Show full feature list</strong></summary>
+
 
 ### Aimbot
 - Aimbot (psilent, mouse, angle)
