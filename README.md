@@ -11,7 +11,7 @@ A simple external project for CSGO written in C++. This is my personal project a
 - No UI/Menu (removed for privacy)
 
 <details>
-<summary><strong>Show full feature list</strong></summary>
+<summary><strong>--Show full feature list--</strong></summary>
 
 
 ### Aimbot
