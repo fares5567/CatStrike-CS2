@@ -67,7 +67,8 @@ A simple external project for CSGO written in C++. This is my personal project a
 
 ## Preview
 
-<img width="1920" height="1080" alt="grafik" src="https://github.com/user-attachments/assets/c51254d1-b991-44a1-826a-1a4b42fa2083" />
+<img width="1920" height="1080" alt="grafik" src="https://github.com/user-attachments/assets/fcf46446-e58a-47cb-ad73-b3f6022c3638" />
+
 
 ## How to Build
 1. Open `catstrike-external.sln` in Visual Studio 2022 or newer.
