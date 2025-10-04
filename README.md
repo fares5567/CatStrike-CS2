@@ -3,7 +3,7 @@
 # V1.0.1 UPDATE
 # ADDED BACK FRAMEWORK AND AN IMGUI UI FOR ZERO PROBLEM BUILD
 https://github.com/iamtherealcat/CatStrike-CS2/releases/download/cs2source/Source.Code.v1.0.1.rar
-
+also on releases is an builded exe for ppl who just want to play
 
 
 A simple external project for CSGO written in C++. This is my personal project and it's mainly for learning and experimenting with game hacking stuff. Please don't expect super advanced features or a polished product, but it works for me!
